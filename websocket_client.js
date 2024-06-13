@@ -29,4 +29,4 @@ const message_send_button = document.querySelector("[name=send_message_button]")
     };
 
 
-},false);
+});
